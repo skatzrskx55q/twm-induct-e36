@@ -1,0 +1,549 @@
+{
+  "stage": "E34",
+  "method": "within_episode_CART_6_6",
+  "seeds": {
+    "17": {
+      "known_val": {
+        "n": 1280,
+        "full_exact": 998,
+        "edge_exact": 1204,
+        "node_exact": 1056,
+        "false_edge_flip": 93,
+        "missed_edge_flip": 127,
+        "false_node_flip": 161,
+        "missed_node_flip": 186,
+        "per_law": {
+          "KNOWN_0": {
+            "n": 80,
+            "full": 56,
+            "edge": 68,
+            "node": 66,
+            "false_edge": 8
+          },
+          "KNOWN_1": {
+            "n": 80,
+            "full": 57,
+            "edge": 65,
+            "node": 72,
+            "false_edge": 2
+          },
+          "KNOWN_2": {
+            "n": 80,
+            "full": 78,
+            "edge": 80,
+            "node": 78,
+            "false_edge": 0
+          },
+          "KNOWN_3": {
+            "n": 80,
+            "full": 44,
+            "edge": 80,
+            "node": 44,
+            "false_edge": 0
+          },
+          "KNOWN_4": {
+            "n": 80,
+            "full": 76,
+            "edge": 80,
+            "node": 76,
+            "false_edge": 0
+          },
+          "KNOWN_5": {
+            "n": 80,
+            "full": 76,
+            "edge": 80,
+            "node": 76,
+            "false_edge": 0
+          },
+          "KNOWN_6": {
+            "n": 80,
+            "full": 71,
+            "edge": 78,
+            "node": 73,
+            "false_edge": 0
+          },
+          "KNOWN_7": {
+            "n": 80,
+            "full": 72,
+            "edge": 79,
+            "node": 73,
+            "false_edge": 0
+          },
+          "KNOWN_8": {
+            "n": 80,
+            "full": 63,
+            "edge": 80,
+            "node": 63,
+            "false_edge": 0
+          },
+          "KNOWN_9": {
+            "n": 80,
+            "full": 73,
+            "edge": 76,
+            "node": 75,
+            "false_edge": 10
+          },
+          "KNOWN_10": {
+            "n": 80,
+            "full": 63,
+            "edge": 73,
+            "node": 64,
+            "false_edge": 12
+          },
+          "KNOWN_11": {
+            "n": 80,
+            "full": 24,
+            "edge": 80,
+            "node": 24,
+            "false_edge": 0
+          },
+          "KNOWN_12": {
+            "n": 80,
+            "full": 77,
+            "edge": 80,
+            "node": 77,
+            "false_edge": 0
+          },
+          "KNOWN_13": {
+            "n": 80,
+            "full": 53,
+            "edge": 59,
+            "node": 70,
+            "false_edge": 36
+          },
+          "KNOWN_14": {
+            "n": 80,
+            "full": 62,
+            "edge": 80,
+            "node": 62,
+            "false_edge": 0
+          },
+          "KNOWN_15": {
+            "n": 80,
+            "full": 53,
+            "edge": 66,
+            "node": 63,
+            "false_edge": 25
+          }
+        }
+      },
+      "paired_known": {
+        "n": 160,
+        "full_exact": 127,
+        "edge_exact": 151,
+        "node_exact": 133,
+        "false_edge_flip": 18,
+        "missed_edge_flip": 10,
+        "false_node_flip": 17,
+        "missed_node_flip": 24,
+        "per_law": {
+          "KNOWN_15": {
+            "n": 80,
+            "full": 61,
+            "edge": 71,
+            "node": 67,
+            "false_edge": 18
+          },
+          "KNOWN_8": {
+            "n": 80,
+            "full": 66,
+            "edge": 80,
+            "node": 66,
+            "false_edge": 0
+          }
+        },
+        "exact_pairs": 49
+      },
+      "N39_open": {
+        "n": 160,
+        "full_exact": 97,
+        "edge_exact": 157,
+        "node_exact": 98,
+        "false_edge_flip": 2,
+        "missed_edge_flip": 4,
+        "false_node_flip": 45,
+        "missed_node_flip": 58,
+        "per_law": {
+          "L3_UNSEEN": {
+            "n": 80,
+            "full": 30,
+            "edge": 77,
+            "node": 31,
+            "false_edge": 2
+          },
+          "KNOWN_8": {
+            "n": 80,
+            "full": 67,
+            "edge": 80,
+            "node": 67,
+            "false_edge": 0
+          }
+        },
+        "exact_pairs": 27
+      }
+    },
+    "29": {
+      "known_val": {
+        "n": 1280,
+        "full_exact": 1028,
+        "edge_exact": 1230,
+        "node_exact": 1063,
+        "false_edge_flip": 88,
+        "missed_edge_flip": 88,
+        "false_node_flip": 164,
+        "missed_node_flip": 170,
+        "per_law": {
+          "KNOWN_0": {
+            "n": 80,
+            "full": 64,
+            "edge": 77,
+            "node": 67,
+            "false_edge": 4
+          },
+          "KNOWN_1": {
+            "n": 80,
+            "full": 73,
+            "edge": 80,
+            "node": 73,
+            "false_edge": 0
+          },
+          "KNOWN_2": {
+            "n": 80,
+            "full": 76,
+            "edge": 80,
+            "node": 76,
+            "false_edge": 0
+          },
+          "KNOWN_3": {
+            "n": 80,
+            "full": 45,
+            "edge": 80,
+            "node": 45,
+            "false_edge": 0
+          },
+          "KNOWN_4": {
+            "n": 80,
+            "full": 76,
+            "edge": 80,
+            "node": 76,
+            "false_edge": 0
+          },
+          "KNOWN_5": {
+            "n": 80,
+            "full": 76,
+            "edge": 80,
+            "node": 76,
+            "false_edge": 0
+          },
+          "KNOWN_6": {
+            "n": 80,
+            "full": 71,
+            "edge": 78,
+            "node": 73,
+            "false_edge": 0
+          },
+          "KNOWN_7": {
+            "n": 80,
+            "full": 71,
+            "edge": 79,
+            "node": 72,
+            "false_edge": 0
+          },
+          "KNOWN_8": {
+            "n": 80,
+            "full": 63,
+            "edge": 80,
+            "node": 63,
+            "false_edge": 0
+          },
+          "KNOWN_9": {
+            "n": 80,
+            "full": 72,
+            "edge": 75,
+            "node": 75,
+            "false_edge": 14
+          },
+          "KNOWN_10": {
+            "n": 80,
+            "full": 64,
+            "edge": 73,
+            "node": 65,
+            "false_edge": 12
+          },
+          "KNOWN_11": {
+            "n": 80,
+            "full": 22,
+            "edge": 80,
+            "node": 22,
+            "false_edge": 0
+          },
+          "KNOWN_12": {
+            "n": 80,
+            "full": 78,
+            "edge": 80,
+            "node": 78,
+            "false_edge": 0
+          },
+          "KNOWN_13": {
+            "n": 80,
+            "full": 56,
+            "edge": 61,
+            "node": 70,
+            "false_edge": 35
+          },
+          "KNOWN_14": {
+            "n": 80,
+            "full": 62,
+            "edge": 80,
+            "node": 62,
+            "false_edge": 0
+          },
+          "KNOWN_15": {
+            "n": 80,
+            "full": 59,
+            "edge": 67,
+            "node": 70,
+            "false_edge": 23
+          }
+        }
+      },
+      "paired_known": {
+        "n": 160,
+        "full_exact": 130,
+        "edge_exact": 151,
+        "node_exact": 135,
+        "false_edge_flip": 15,
+        "missed_edge_flip": 8,
+        "false_node_flip": 15,
+        "missed_node_flip": 20,
+        "per_law": {
+          "KNOWN_15": {
+            "n": 80,
+            "full": 65,
+            "edge": 71,
+            "node": 70,
+            "false_edge": 15
+          },
+          "KNOWN_8": {
+            "n": 80,
+            "full": 65,
+            "edge": 80,
+            "node": 65,
+            "false_edge": 0
+          }
+        },
+        "exact_pairs": 52
+      },
+      "N39_open": {
+        "n": 160,
+        "full_exact": 99,
+        "edge_exact": 158,
+        "node_exact": 99,
+        "false_edge_flip": 5,
+        "missed_edge_flip": 2,
+        "false_node_flip": 43,
+        "missed_node_flip": 57,
+        "per_law": {
+          "L3_UNSEEN": {
+            "n": 80,
+            "full": 29,
+            "edge": 78,
+            "node": 29,
+            "false_edge": 5
+          },
+          "KNOWN_8": {
+            "n": 80,
+            "full": 70,
+            "edge": 80,
+            "node": 70,
+            "false_edge": 0
+          }
+        },
+        "exact_pairs": 27
+      }
+    },
+    "43": {
+      "known_val": {
+        "n": 1280,
+        "full_exact": 1007,
+        "edge_exact": 1215,
+        "node_exact": 1056,
+        "false_edge_flip": 79,
+        "missed_edge_flip": 116,
+        "false_node_flip": 166,
+        "missed_node_flip": 170,
+        "per_law": {
+          "KNOWN_0": {
+            "n": 80,
+            "full": 55,
+            "edge": 69,
+            "node": 64,
+            "false_edge": 9
+          },
+          "KNOWN_1": {
+            "n": 80,
+            "full": 61,
+            "edge": 71,
+            "node": 70,
+            "false_edge": 0
+          },
+          "KNOWN_2": {
+            "n": 80,
+            "full": 76,
+            "edge": 80,
+            "node": 76,
+            "false_edge": 0
+          },
+          "KNOWN_3": {
+            "n": 80,
+            "full": 46,
+            "edge": 80,
+            "node": 46,
+            "false_edge": 0
+          },
+          "KNOWN_4": {
+            "n": 80,
+            "full": 76,
+            "edge": 80,
+            "node": 76,
+            "false_edge": 0
+          },
+          "KNOWN_5": {
+            "n": 80,
+            "full": 75,
+            "edge": 80,
+            "node": 75,
+            "false_edge": 0
+          },
+          "KNOWN_6": {
+            "n": 80,
+            "full": 71,
+            "edge": 78,
+            "node": 73,
+            "false_edge": 0
+          },
+          "KNOWN_7": {
+            "n": 80,
+            "full": 73,
+            "edge": 79,
+            "node": 74,
+            "false_edge": 0
+          },
+          "KNOWN_8": {
+            "n": 80,
+            "full": 61,
+            "edge": 80,
+            "node": 61,
+            "false_edge": 0
+          },
+          "KNOWN_9": {
+            "n": 80,
+            "full": 74,
+            "edge": 76,
+            "node": 76,
+            "false_edge": 9
+          },
+          "KNOWN_10": {
+            "n": 80,
+            "full": 64,
+            "edge": 74,
+            "node": 65,
+            "false_edge": 9
+          },
+          "KNOWN_11": {
+            "n": 80,
+            "full": 28,
+            "edge": 80,
+            "node": 28,
+            "false_edge": 0
+          },
+          "KNOWN_12": {
+            "n": 80,
+            "full": 77,
+            "edge": 80,
+            "node": 77,
+            "false_edge": 0
+          },
+          "KNOWN_13": {
+            "n": 80,
+            "full": 53,
+            "edge": 61,
+            "node": 67,
+            "false_edge": 32
+          },
+          "KNOWN_14": {
+            "n": 80,
+            "full": 63,
+            "edge": 80,
+            "node": 63,
+            "false_edge": 0
+          },
+          "KNOWN_15": {
+            "n": 80,
+            "full": 54,
+            "edge": 67,
+            "node": 65,
+            "false_edge": 20
+          }
+        }
+      },
+      "paired_known": {
+        "n": 160,
+        "full_exact": 125,
+        "edge_exact": 151,
+        "node_exact": 131,
+        "false_edge_flip": 18,
+        "missed_edge_flip": 9,
+        "false_node_flip": 17,
+        "missed_node_flip": 22,
+        "per_law": {
+          "KNOWN_15": {
+            "n": 80,
+            "full": 61,
+            "edge": 71,
+            "node": 67,
+            "false_edge": 18
+          },
+          "KNOWN_8": {
+            "n": 80,
+            "full": 64,
+            "edge": 80,
+            "node": 64,
+            "false_edge": 0
+          }
+        },
+        "exact_pairs": 47
+      },
+      "N39_open": {
+        "n": 160,
+        "full_exact": 99,
+        "edge_exact": 158,
+        "node_exact": 99,
+        "false_edge_flip": 5,
+        "missed_edge_flip": 2,
+        "false_node_flip": 45,
+        "missed_node_flip": 54,
+        "per_law": {
+          "L3_UNSEEN": {
+            "n": 80,
+            "full": 30,
+            "edge": 78,
+            "node": 30,
+            "false_edge": 5
+          },
+          "KNOWN_8": {
+            "n": 80,
+            "full": 69,
+            "edge": 80,
+            "node": 69,
+            "false_edge": 0
+          }
+        },
+        "exact_pairs": 28
+      }
+    }
+  },
+  "frozen_protocol_sha256": "cc5f92f47930811769e91eb234e88f5376bd0c6544d0557487acf3eb15b427d1",
+  "source": "E33 train/val and N39 already opened",
+  "seconds": 12.981
+}

@@ -1,0 +1,30 @@
+{
+  "stage": "E34",
+  "status": "FROZEN_BEFORE_EXTERNAL_EVALUATION",
+  "created_utc": "2026-10-29",
+  "method": "generic_observation_fitted_CART",
+  "rule_ids_or_formulas_at_inference": false,
+  "max_depth_edge": 6,
+  "max_depth_node": 6,
+  "min_leaf": 1,
+  "random_seeds": [
+    17,
+    29,
+    43
+  ],
+  "selection_data": "256 episodes subset of original 2048 training histories, i%8==0; 9 configs, best full 199/256 at 6/6/1",
+  "evaluation_sets": [
+    "known_val (previously opened)",
+    "paired_known (previously opened)",
+    "N39 open negative benchmark L3"
+  ],
+  "conditions_for_promotion": "No promotion without external blinded composition test; show known law exact and per-law regressions, N39 L3 pairs and H4/8/16 separately. Improvement vs E22 known is necessary but not sufficient.",
+  "frozen_sha256": {
+    "CODE/e34_induction.py": "744ed2b74aa27066cc64ee252f9788dd3d2e757290cefb4a01e07a942d81f742",
+    "CODE/e34_evaluate.py": "9dde26071691b1046a44009da835f372b46c2e63fcd3a568b5672942c32828b4",
+    "INPUTS/train_records.json": "953b2321b3054dfdbb74a1218c768592b8abf59bd537dae380364a89ff9d326d",
+    "INPUTS/known_val_records.json": "feeebabc4c74252d9b551c886dd487ca38e5bff25544a5d6ea0f276a944e0d57",
+    "INPUTS/paired_known_records.json": "b316d63e7c6c890319d847de3969933db06968092135ac9e7243c1fe1fd7630f",
+    "REF/TWM_N39/DATA/N39_HELD_RECORDS.json": "d2b87e7a8609ffbb6c1a62cb6d42dc4cd8e3dfdeba273a57e711305d5e9712cf"
+  }
+}

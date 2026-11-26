@@ -1,0 +1,5 @@
+{
+  "exit_code": 0,
+  "seconds": 2.49,
+  "command": "python run.py check"
+}

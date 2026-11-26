@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "checkpoint_seed_count": 3,
+  "independent_checks_approx": 912384,
+  "n2_episodes": 2368,
+  "all_N2_traces_per_seed": 768,
+  "direct_truth_reconstruction": true,
+  "N2_recomputed_from_raw": true,
+  "repeat_train_seed17_bitwise_identical": true,
+  "max_weights_diff_retrain_seed17": 0.0
+}

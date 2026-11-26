@@ -1,0 +1,11 @@
+{
+  "stage":"E36", "date":"2026-10-29", "status":"FROZEN_BEFORE_EVALUATION",
+  "hypothesis":"An episodic ridge solver with a meta-learned nonlinear pairwise feature map more accurately transfers local Boolean conditions than E35-B attention.",
+  "method":"Differentiable polynomial feature embed + per-episode regularized least-squares solver; sequential edge->node using only self-predicted edge graph",
+  "hyperparameters":{"seeds":[17,29,43],"steps_edge":750,"steps_node":750,"batch":16,"lr":0.0012,"hidden":72,"embedding":24,"base_lambda_softplus_log":-0.3,"threshold":0.5},
+  "training":"2048 existing known-law training histories; query next-state targets; no law IDs/formulas/teacher labels as features; only observed support labels at inference",
+  "comparison":"E35-B and E22 known accuracy, E34 known and N39; N2-L3 and L4 H1/4/8/16 conditional on model passing initial known-law gate",
+  "gate":"Must beat E35-B on all three seeds and E22 on at least two, not regress any known law > 6/80 vs E22; must match/improve E34 N39 pairs on >=2 seeds before considered an algorithmic baseline rival; additionally external sealed composition is mandatory for baseline promotion",
+  "evaluation":"previously open splits only; N39 is historical open; never claim N40 promotion on these data",
+  "limitations":"Single experimental architecture; no claims about novel-law sealed generalization without a new exam"
+}

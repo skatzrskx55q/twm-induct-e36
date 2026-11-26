@@ -1,0 +1,12 @@
+TRAIN 43 edge {'step': 1, 'bce': 0.405118, 'elapsed_s': 0.0, 'lambda': 0.55384}
+TRAIN 43 edge {'step': 250, 'bce': 0.133344, 'elapsed_s': 0.9, 'lambda': 0.4576}
+TRAIN 43 edge {'step': 500, 'bce': 0.108874, 'elapsed_s': 1.7, 'lambda': 0.4027}
+TRAIN 43 edge {'step': 750, 'bce': 0.087703, 'elapsed_s': 2.6, 'lambda': 0.36264}
+TRAIN 43 node {'step': 1, 'bce': 0.199455, 'elapsed_s': 0.0, 'lambda': 0.55384}
+TRAIN 43 node {'step': 250, 'bce': 0.129852, 'elapsed_s': 1.1, 'lambda': 0.46576}
+TRAIN 43 node {'step': 500, 'bce': 0.111874, 'elapsed_s': 2.0, 'lambda': 0.39289}
+TRAIN 43 node {'step': 750, 'bce': 0.146429, 'elapsed_s': 2.9, 'lambda': 0.33121}
+EVAL 43 train 1999 / 2048 edge 2044 node 2003 pairs None
+EVAL 43 known_val 1207 / 1280 edge 1274 node 1212 pairs None
+EVAL 43 paired_known 149 / 160 edge 160 node 149 pairs 69
+EVAL 43 N39_open 103 / 160 edge 154 node 103 pairs 27

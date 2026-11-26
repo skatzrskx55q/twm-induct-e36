@@ -1,0 +1,557 @@
+{
+  "source": "archived open N2",
+  "horizons": [
+    1,
+    4,
+    8,
+    16
+  ],
+  "seeds": {
+    "17": {
+      "ID_state": {
+        "1": {
+          "n": 128,
+          "exact": 91,
+          "path_exact": 91,
+          "edge_exact": 104,
+          "node_exact": 102
+        },
+        "4": {
+          "n": 128,
+          "exact": 70,
+          "path_exact": 67,
+          "edge_exact": 86,
+          "node_exact": 83
+        },
+        "8": {
+          "n": 128,
+          "exact": 65,
+          "path_exact": 63,
+          "edge_exact": 80,
+          "node_exact": 73
+        },
+        "16": {
+          "n": 128,
+          "exact": 64,
+          "path_exact": 61,
+          "edge_exact": 79,
+          "node_exact": 73
+        }
+      },
+      "OOD_structure": {
+        "1": {
+          "n": 128,
+          "exact": 101,
+          "path_exact": 101,
+          "edge_exact": 120,
+          "node_exact": 108
+        },
+        "4": {
+          "n": 128,
+          "exact": 89,
+          "path_exact": 85,
+          "edge_exact": 96,
+          "node_exact": 95
+        },
+        "8": {
+          "n": 128,
+          "exact": 83,
+          "path_exact": 80,
+          "edge_exact": 93,
+          "node_exact": 91
+        },
+        "16": {
+          "n": 128,
+          "exact": 76,
+          "path_exact": 72,
+          "edge_exact": 87,
+          "node_exact": 79
+        }
+      },
+      "test_L2": {
+        "1": {
+          "n": 128,
+          "exact": 74,
+          "path_exact": 74,
+          "edge_exact": 97,
+          "node_exact": 96
+        },
+        "4": {
+          "n": 128,
+          "exact": 57,
+          "path_exact": 51,
+          "edge_exact": 81,
+          "node_exact": 74
+        },
+        "8": {
+          "n": 128,
+          "exact": 50,
+          "path_exact": 39,
+          "edge_exact": 75,
+          "node_exact": 70
+        },
+        "16": {
+          "n": 128,
+          "exact": 42,
+          "path_exact": 32,
+          "edge_exact": 68,
+          "node_exact": 54
+        }
+      },
+      "test_L3": {
+        "1": {
+          "n": 240,
+          "exact": 135,
+          "path_exact": 135,
+          "edge_exact": 161,
+          "node_exact": 179
+        },
+        "4": {
+          "n": 240,
+          "exact": 85,
+          "path_exact": 77,
+          "edge_exact": 114,
+          "node_exact": 127
+        },
+        "8": {
+          "n": 240,
+          "exact": 68,
+          "path_exact": 58,
+          "edge_exact": 100,
+          "node_exact": 105
+        },
+        "16": {
+          "n": 240,
+          "exact": 54,
+          "path_exact": 49,
+          "edge_exact": 87,
+          "node_exact": 93
+        }
+      },
+      "test_L4": {
+        "1": {
+          "n": 80,
+          "exact": 40,
+          "path_exact": 40,
+          "edge_exact": 57,
+          "node_exact": 55
+        },
+        "4": {
+          "n": 80,
+          "exact": 34,
+          "path_exact": 30,
+          "edge_exact": 43,
+          "node_exact": 43
+        },
+        "8": {
+          "n": 80,
+          "exact": 31,
+          "path_exact": 25,
+          "edge_exact": 40,
+          "node_exact": 41
+        },
+        "16": {
+          "n": 80,
+          "exact": 26,
+          "path_exact": 21,
+          "edge_exact": 36,
+          "node_exact": 36
+        }
+      },
+      "ambiguous": {
+        "1": {
+          "n": 64,
+          "exact": 33,
+          "path_exact": 33,
+          "edge_exact": 43,
+          "node_exact": 44
+        },
+        "4": {
+          "n": 64,
+          "exact": 17,
+          "path_exact": 16,
+          "edge_exact": 31,
+          "node_exact": 28
+        },
+        "8": {
+          "n": 64,
+          "exact": 14,
+          "path_exact": 12,
+          "edge_exact": 25,
+          "node_exact": 29
+        },
+        "16": {
+          "n": 64,
+          "exact": 11,
+          "path_exact": 11,
+          "edge_exact": 21,
+          "node_exact": 22
+        }
+      }
+    },
+    "29": {
+      "ID_state": {
+        "1": {
+          "n": 128,
+          "exact": 92,
+          "path_exact": 92,
+          "edge_exact": 107,
+          "node_exact": 99
+        },
+        "4": {
+          "n": 128,
+          "exact": 77,
+          "path_exact": 74,
+          "edge_exact": 89,
+          "node_exact": 84
+        },
+        "8": {
+          "n": 128,
+          "exact": 71,
+          "path_exact": 69,
+          "edge_exact": 84,
+          "node_exact": 78
+        },
+        "16": {
+          "n": 128,
+          "exact": 65,
+          "path_exact": 62,
+          "edge_exact": 82,
+          "node_exact": 75
+        }
+      },
+      "OOD_structure": {
+        "1": {
+          "n": 128,
+          "exact": 100,
+          "path_exact": 100,
+          "edge_exact": 119,
+          "node_exact": 108
+        },
+        "4": {
+          "n": 128,
+          "exact": 91,
+          "path_exact": 87,
+          "edge_exact": 100,
+          "node_exact": 97
+        },
+        "8": {
+          "n": 128,
+          "exact": 82,
+          "path_exact": 78,
+          "edge_exact": 93,
+          "node_exact": 92
+        },
+        "16": {
+          "n": 128,
+          "exact": 75,
+          "path_exact": 72,
+          "edge_exact": 85,
+          "node_exact": 79
+        }
+      },
+      "test_L2": {
+        "1": {
+          "n": 128,
+          "exact": 77,
+          "path_exact": 77,
+          "edge_exact": 97,
+          "node_exact": 99
+        },
+        "4": {
+          "n": 128,
+          "exact": 54,
+          "path_exact": 51,
+          "edge_exact": 82,
+          "node_exact": 68
+        },
+        "8": {
+          "n": 128,
+          "exact": 52,
+          "path_exact": 44,
+          "edge_exact": 76,
+          "node_exact": 69
+        },
+        "16": {
+          "n": 128,
+          "exact": 43,
+          "path_exact": 38,
+          "edge_exact": 72,
+          "node_exact": 51
+        }
+      },
+      "test_L3": {
+        "1": {
+          "n": 240,
+          "exact": 137,
+          "path_exact": 137,
+          "edge_exact": 155,
+          "node_exact": 187
+        },
+        "4": {
+          "n": 240,
+          "exact": 84,
+          "path_exact": 79,
+          "edge_exact": 113,
+          "node_exact": 125
+        },
+        "8": {
+          "n": 240,
+          "exact": 71,
+          "path_exact": 65,
+          "edge_exact": 101,
+          "node_exact": 112
+        },
+        "16": {
+          "n": 240,
+          "exact": 58,
+          "path_exact": 53,
+          "edge_exact": 93,
+          "node_exact": 91
+        }
+      },
+      "test_L4": {
+        "1": {
+          "n": 80,
+          "exact": 41,
+          "path_exact": 41,
+          "edge_exact": 56,
+          "node_exact": 58
+        },
+        "4": {
+          "n": 80,
+          "exact": 37,
+          "path_exact": 31,
+          "edge_exact": 48,
+          "node_exact": 46
+        },
+        "8": {
+          "n": 80,
+          "exact": 31,
+          "path_exact": 27,
+          "edge_exact": 42,
+          "node_exact": 46
+        },
+        "16": {
+          "n": 80,
+          "exact": 25,
+          "path_exact": 22,
+          "edge_exact": 39,
+          "node_exact": 35
+        }
+      },
+      "ambiguous": {
+        "1": {
+          "n": 64,
+          "exact": 32,
+          "path_exact": 32,
+          "edge_exact": 39,
+          "node_exact": 46
+        },
+        "4": {
+          "n": 64,
+          "exact": 19,
+          "path_exact": 18,
+          "edge_exact": 28,
+          "node_exact": 31
+        },
+        "8": {
+          "n": 64,
+          "exact": 14,
+          "path_exact": 12,
+          "edge_exact": 25,
+          "node_exact": 26
+        },
+        "16": {
+          "n": 64,
+          "exact": 14,
+          "path_exact": 12,
+          "edge_exact": 23,
+          "node_exact": 23
+        }
+      }
+    },
+    "43": {
+      "ID_state": {
+        "1": {
+          "n": 128,
+          "exact": 90,
+          "path_exact": 90,
+          "edge_exact": 106,
+          "node_exact": 99
+        },
+        "4": {
+          "n": 128,
+          "exact": 75,
+          "path_exact": 73,
+          "edge_exact": 85,
+          "node_exact": 86
+        },
+        "8": {
+          "n": 128,
+          "exact": 72,
+          "path_exact": 68,
+          "edge_exact": 83,
+          "node_exact": 81
+        },
+        "16": {
+          "n": 128,
+          "exact": 67,
+          "path_exact": 64,
+          "edge_exact": 85,
+          "node_exact": 73
+        }
+      },
+      "OOD_structure": {
+        "1": {
+          "n": 128,
+          "exact": 101,
+          "path_exact": 101,
+          "edge_exact": 118,
+          "node_exact": 108
+        },
+        "4": {
+          "n": 128,
+          "exact": 85,
+          "path_exact": 82,
+          "edge_exact": 98,
+          "node_exact": 94
+        },
+        "8": {
+          "n": 128,
+          "exact": 84,
+          "path_exact": 79,
+          "edge_exact": 96,
+          "node_exact": 91
+        },
+        "16": {
+          "n": 128,
+          "exact": 76,
+          "path_exact": 73,
+          "edge_exact": 87,
+          "node_exact": 79
+        }
+      },
+      "test_L2": {
+        "1": {
+          "n": 128,
+          "exact": 82,
+          "path_exact": 82,
+          "edge_exact": 100,
+          "node_exact": 99
+        },
+        "4": {
+          "n": 128,
+          "exact": 57,
+          "path_exact": 56,
+          "edge_exact": 82,
+          "node_exact": 77
+        },
+        "8": {
+          "n": 128,
+          "exact": 54,
+          "path_exact": 44,
+          "edge_exact": 80,
+          "node_exact": 68
+        },
+        "16": {
+          "n": 128,
+          "exact": 44,
+          "path_exact": 36,
+          "edge_exact": 72,
+          "node_exact": 53
+        }
+      },
+      "test_L3": {
+        "1": {
+          "n": 240,
+          "exact": 142,
+          "path_exact": 142,
+          "edge_exact": 169,
+          "node_exact": 185
+        },
+        "4": {
+          "n": 240,
+          "exact": 95,
+          "path_exact": 85,
+          "edge_exact": 126,
+          "node_exact": 136
+        },
+        "8": {
+          "n": 240,
+          "exact": 73,
+          "path_exact": 65,
+          "edge_exact": 106,
+          "node_exact": 113
+        },
+        "16": {
+          "n": 240,
+          "exact": 66,
+          "path_exact": 57,
+          "edge_exact": 99,
+          "node_exact": 103
+        }
+      },
+      "test_L4": {
+        "1": {
+          "n": 80,
+          "exact": 41,
+          "path_exact": 41,
+          "edge_exact": 58,
+          "node_exact": 58
+        },
+        "4": {
+          "n": 80,
+          "exact": 33,
+          "path_exact": 29,
+          "edge_exact": 48,
+          "node_exact": 42
+        },
+        "8": {
+          "n": 80,
+          "exact": 28,
+          "path_exact": 25,
+          "edge_exact": 44,
+          "node_exact": 40
+        },
+        "16": {
+          "n": 80,
+          "exact": 23,
+          "path_exact": 21,
+          "edge_exact": 39,
+          "node_exact": 35
+        }
+      },
+      "ambiguous": {
+        "1": {
+          "n": 64,
+          "exact": 34,
+          "path_exact": 34,
+          "edge_exact": 44,
+          "node_exact": 45
+        },
+        "4": {
+          "n": 64,
+          "exact": 20,
+          "path_exact": 19,
+          "edge_exact": 31,
+          "node_exact": 29
+        },
+        "8": {
+          "n": 64,
+          "exact": 18,
+          "path_exact": 16,
+          "edge_exact": 29,
+          "node_exact": 32
+        },
+        "16": {
+          "n": 64,
+          "exact": 17,
+          "path_exact": 14,
+          "edge_exact": 26,
+          "node_exact": 26
+        }
+      }
+    }
+  }
+}

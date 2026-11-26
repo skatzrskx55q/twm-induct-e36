@@ -1,0 +1,3 @@
+Working directory: /tmp/twm-research-vmgr5v3p/research/E36
+Command: ['/opt/pyvenv/bin/python', 'verify_manifest.py']
+PASS 52 SHA-256 entries verified

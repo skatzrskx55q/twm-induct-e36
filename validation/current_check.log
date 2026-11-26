@@ -1,0 +1,3 @@
+cwd: E36
+command: python verify_manifest.py
+PASS 52 SHA-256 entries verified

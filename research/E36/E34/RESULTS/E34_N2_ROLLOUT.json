@@ -1,0 +1,574 @@
+{
+  "method": "E34 frozen, cached trees equivalent to refitting; context = last eight observed transitions",
+  "source": "N2 historical frozen 2026-10-21, already public to project, not new independent seal",
+  "seeds": {
+    "17": {
+      "train": {
+        "1": {
+          "exact_at_h": 1270,
+          "full_path_exact_to_h": 1270,
+          "edge_exact_at_h": 1368,
+          "node_exact_at_h": 1305
+        },
+        "4": {
+          "exact_at_h": 1143,
+          "full_path_exact_to_h": 1125,
+          "edge_exact_at_h": 1255,
+          "node_exact_at_h": 1172
+        },
+        "8": {
+          "exact_at_h": 1086,
+          "full_path_exact_to_h": 1054,
+          "edge_exact_at_h": 1213,
+          "node_exact_at_h": 1115
+        },
+        "16": {
+          "exact_at_h": 1051,
+          "full_path_exact_to_h": 1023,
+          "edge_exact_at_h": 1197,
+          "node_exact_at_h": 1082
+        }
+      },
+      "ID_state": {
+        "1": {
+          "exact_at_h": 112,
+          "full_path_exact_to_h": 112,
+          "edge_exact_at_h": 119,
+          "node_exact_at_h": 114
+        },
+        "4": {
+          "exact_at_h": 99,
+          "full_path_exact_to_h": 97,
+          "edge_exact_at_h": 106,
+          "node_exact_at_h": 101
+        },
+        "8": {
+          "exact_at_h": 91,
+          "full_path_exact_to_h": 91,
+          "edge_exact_at_h": 102,
+          "node_exact_at_h": 92
+        },
+        "16": {
+          "exact_at_h": 90,
+          "full_path_exact_to_h": 88,
+          "edge_exact_at_h": 102,
+          "node_exact_at_h": 90
+        }
+      },
+      "OOD_structure": {
+        "1": {
+          "exact_at_h": 115,
+          "full_path_exact_to_h": 115,
+          "edge_exact_at_h": 125,
+          "node_exact_at_h": 116
+        },
+        "4": {
+          "exact_at_h": 101,
+          "full_path_exact_to_h": 99,
+          "edge_exact_at_h": 113,
+          "node_exact_at_h": 104
+        },
+        "8": {
+          "exact_at_h": 98,
+          "full_path_exact_to_h": 96,
+          "edge_exact_at_h": 109,
+          "node_exact_at_h": 105
+        },
+        "16": {
+          "exact_at_h": 94,
+          "full_path_exact_to_h": 89,
+          "edge_exact_at_h": 104,
+          "node_exact_at_h": 98
+        }
+      },
+      "test_L2": {
+        "1": {
+          "exact_at_h": 116,
+          "full_path_exact_to_h": 116,
+          "edge_exact_at_h": 125,
+          "node_exact_at_h": 118
+        },
+        "4": {
+          "exact_at_h": 101,
+          "full_path_exact_to_h": 101,
+          "edge_exact_at_h": 117,
+          "node_exact_at_h": 102
+        },
+        "8": {
+          "exact_at_h": 99,
+          "full_path_exact_to_h": 93,
+          "edge_exact_at_h": 116,
+          "node_exact_at_h": 100
+        },
+        "16": {
+          "exact_at_h": 88,
+          "full_path_exact_to_h": 85,
+          "edge_exact_at_h": 110,
+          "node_exact_at_h": 90
+        }
+      },
+      "test_L3": {
+        "1": {
+          "exact_at_h": 209,
+          "full_path_exact_to_h": 209,
+          "edge_exact_at_h": 230,
+          "node_exact_at_h": 216
+        },
+        "4": {
+          "exact_at_h": 187,
+          "full_path_exact_to_h": 180,
+          "edge_exact_at_h": 217,
+          "node_exact_at_h": 193
+        },
+        "8": {
+          "exact_at_h": 172,
+          "full_path_exact_to_h": 168,
+          "edge_exact_at_h": 207,
+          "node_exact_at_h": 182
+        },
+        "16": {
+          "exact_at_h": 163,
+          "full_path_exact_to_h": 158,
+          "edge_exact_at_h": 201,
+          "node_exact_at_h": 177
+        }
+      },
+      "test_L4": {
+        "1": {
+          "exact_at_h": 65,
+          "full_path_exact_to_h": 65,
+          "edge_exact_at_h": 69,
+          "node_exact_at_h": 74
+        },
+        "4": {
+          "exact_at_h": 58,
+          "full_path_exact_to_h": 55,
+          "edge_exact_at_h": 59,
+          "node_exact_at_h": 67
+        },
+        "8": {
+          "exact_at_h": 55,
+          "full_path_exact_to_h": 52,
+          "edge_exact_at_h": 59,
+          "node_exact_at_h": 62
+        },
+        "16": {
+          "exact_at_h": 51,
+          "full_path_exact_to_h": 48,
+          "edge_exact_at_h": 56,
+          "node_exact_at_h": 59
+        }
+      },
+      "ambiguous": {
+        "1": {
+          "exact_at_h": 56,
+          "full_path_exact_to_h": 56,
+          "edge_exact_at_h": 63,
+          "node_exact_at_h": 57
+        },
+        "4": {
+          "exact_at_h": 46,
+          "full_path_exact_to_h": 44,
+          "edge_exact_at_h": 56,
+          "node_exact_at_h": 48
+        },
+        "8": {
+          "exact_at_h": 43,
+          "full_path_exact_to_h": 42,
+          "edge_exact_at_h": 56,
+          "node_exact_at_h": 46
+        },
+        "16": {
+          "exact_at_h": 41,
+          "full_path_exact_to_h": 38,
+          "edge_exact_at_h": 55,
+          "node_exact_at_h": 44
+        }
+      }
+    },
+    "29": {
+      "train": {
+        "1": {
+          "exact_at_h": 1274,
+          "full_path_exact_to_h": 1274,
+          "edge_exact_at_h": 1371,
+          "node_exact_at_h": 1308
+        },
+        "4": {
+          "exact_at_h": 1144,
+          "full_path_exact_to_h": 1129,
+          "edge_exact_at_h": 1248,
+          "node_exact_at_h": 1175
+        },
+        "8": {
+          "exact_at_h": 1097,
+          "full_path_exact_to_h": 1065,
+          "edge_exact_at_h": 1212,
+          "node_exact_at_h": 1125
+        },
+        "16": {
+          "exact_at_h": 1056,
+          "full_path_exact_to_h": 1027,
+          "edge_exact_at_h": 1196,
+          "node_exact_at_h": 1086
+        }
+      },
+      "ID_state": {
+        "1": {
+          "exact_at_h": 111,
+          "full_path_exact_to_h": 111,
+          "edge_exact_at_h": 119,
+          "node_exact_at_h": 112
+        },
+        "4": {
+          "exact_at_h": 96,
+          "full_path_exact_to_h": 96,
+          "edge_exact_at_h": 105,
+          "node_exact_at_h": 98
+        },
+        "8": {
+          "exact_at_h": 90,
+          "full_path_exact_to_h": 90,
+          "edge_exact_at_h": 100,
+          "node_exact_at_h": 90
+        },
+        "16": {
+          "exact_at_h": 89,
+          "full_path_exact_to_h": 87,
+          "edge_exact_at_h": 100,
+          "node_exact_at_h": 89
+        }
+      },
+      "OOD_structure": {
+        "1": {
+          "exact_at_h": 116,
+          "full_path_exact_to_h": 116,
+          "edge_exact_at_h": 125,
+          "node_exact_at_h": 117
+        },
+        "4": {
+          "exact_at_h": 103,
+          "full_path_exact_to_h": 102,
+          "edge_exact_at_h": 114,
+          "node_exact_at_h": 106
+        },
+        "8": {
+          "exact_at_h": 100,
+          "full_path_exact_to_h": 98,
+          "edge_exact_at_h": 110,
+          "node_exact_at_h": 106
+        },
+        "16": {
+          "exact_at_h": 95,
+          "full_path_exact_to_h": 92,
+          "edge_exact_at_h": 103,
+          "node_exact_at_h": 100
+        }
+      },
+      "test_L2": {
+        "1": {
+          "exact_at_h": 117,
+          "full_path_exact_to_h": 117,
+          "edge_exact_at_h": 124,
+          "node_exact_at_h": 119
+        },
+        "4": {
+          "exact_at_h": 101,
+          "full_path_exact_to_h": 100,
+          "edge_exact_at_h": 119,
+          "node_exact_at_h": 102
+        },
+        "8": {
+          "exact_at_h": 96,
+          "full_path_exact_to_h": 93,
+          "edge_exact_at_h": 115,
+          "node_exact_at_h": 98
+        },
+        "16": {
+          "exact_at_h": 92,
+          "full_path_exact_to_h": 88,
+          "edge_exact_at_h": 111,
+          "node_exact_at_h": 95
+        }
+      },
+      "test_L3": {
+        "1": {
+          "exact_at_h": 212,
+          "full_path_exact_to_h": 212,
+          "edge_exact_at_h": 230,
+          "node_exact_at_h": 217
+        },
+        "4": {
+          "exact_at_h": 190,
+          "full_path_exact_to_h": 181,
+          "edge_exact_at_h": 218,
+          "node_exact_at_h": 198
+        },
+        "8": {
+          "exact_at_h": 177,
+          "full_path_exact_to_h": 170,
+          "edge_exact_at_h": 210,
+          "node_exact_at_h": 188
+        },
+        "16": {
+          "exact_at_h": 162,
+          "full_path_exact_to_h": 158,
+          "edge_exact_at_h": 203,
+          "node_exact_at_h": 175
+        }
+      },
+      "test_L4": {
+        "1": {
+          "exact_at_h": 64,
+          "full_path_exact_to_h": 64,
+          "edge_exact_at_h": 69,
+          "node_exact_at_h": 73
+        },
+        "4": {
+          "exact_at_h": 56,
+          "full_path_exact_to_h": 53,
+          "edge_exact_at_h": 58,
+          "node_exact_at_h": 66
+        },
+        "8": {
+          "exact_at_h": 53,
+          "full_path_exact_to_h": 50,
+          "edge_exact_at_h": 59,
+          "node_exact_at_h": 61
+        },
+        "16": {
+          "exact_at_h": 49,
+          "full_path_exact_to_h": 45,
+          "edge_exact_at_h": 56,
+          "node_exact_at_h": 57
+        }
+      },
+      "ambiguous": {
+        "1": {
+          "exact_at_h": 56,
+          "full_path_exact_to_h": 56,
+          "edge_exact_at_h": 63,
+          "node_exact_at_h": 56
+        },
+        "4": {
+          "exact_at_h": 46,
+          "full_path_exact_to_h": 44,
+          "edge_exact_at_h": 56,
+          "node_exact_at_h": 49
+        },
+        "8": {
+          "exact_at_h": 43,
+          "full_path_exact_to_h": 42,
+          "edge_exact_at_h": 56,
+          "node_exact_at_h": 45
+        },
+        "16": {
+          "exact_at_h": 43,
+          "full_path_exact_to_h": 40,
+          "edge_exact_at_h": 55,
+          "node_exact_at_h": 46
+        }
+      }
+    },
+    "43": {
+      "train": {
+        "1": {
+          "exact_at_h": 1275,
+          "full_path_exact_to_h": 1275,
+          "edge_exact_at_h": 1369,
+          "node_exact_at_h": 1311
+        },
+        "4": {
+          "exact_at_h": 1142,
+          "full_path_exact_to_h": 1124,
+          "edge_exact_at_h": 1251,
+          "node_exact_at_h": 1175
+        },
+        "8": {
+          "exact_at_h": 1092,
+          "full_path_exact_to_h": 1057,
+          "edge_exact_at_h": 1213,
+          "node_exact_at_h": 1126
+        },
+        "16": {
+          "exact_at_h": 1050,
+          "full_path_exact_to_h": 1019,
+          "edge_exact_at_h": 1194,
+          "node_exact_at_h": 1082
+        }
+      },
+      "ID_state": {
+        "1": {
+          "exact_at_h": 111,
+          "full_path_exact_to_h": 111,
+          "edge_exact_at_h": 120,
+          "node_exact_at_h": 112
+        },
+        "4": {
+          "exact_at_h": 99,
+          "full_path_exact_to_h": 98,
+          "edge_exact_at_h": 106,
+          "node_exact_at_h": 101
+        },
+        "8": {
+          "exact_at_h": 92,
+          "full_path_exact_to_h": 91,
+          "edge_exact_at_h": 102,
+          "node_exact_at_h": 93
+        },
+        "16": {
+          "exact_at_h": 91,
+          "full_path_exact_to_h": 88,
+          "edge_exact_at_h": 102,
+          "node_exact_at_h": 94
+        }
+      },
+      "OOD_structure": {
+        "1": {
+          "exact_at_h": 115,
+          "full_path_exact_to_h": 115,
+          "edge_exact_at_h": 125,
+          "node_exact_at_h": 117
+        },
+        "4": {
+          "exact_at_h": 102,
+          "full_path_exact_to_h": 101,
+          "edge_exact_at_h": 114,
+          "node_exact_at_h": 108
+        },
+        "8": {
+          "exact_at_h": 100,
+          "full_path_exact_to_h": 97,
+          "edge_exact_at_h": 109,
+          "node_exact_at_h": 104
+        },
+        "16": {
+          "exact_at_h": 94,
+          "full_path_exact_to_h": 91,
+          "edge_exact_at_h": 102,
+          "node_exact_at_h": 98
+        }
+      },
+      "test_L2": {
+        "1": {
+          "exact_at_h": 118,
+          "full_path_exact_to_h": 118,
+          "edge_exact_at_h": 125,
+          "node_exact_at_h": 120
+        },
+        "4": {
+          "exact_at_h": 101,
+          "full_path_exact_to_h": 101,
+          "edge_exact_at_h": 118,
+          "node_exact_at_h": 102
+        },
+        "8": {
+          "exact_at_h": 95,
+          "full_path_exact_to_h": 92,
+          "edge_exact_at_h": 113,
+          "node_exact_at_h": 97
+        },
+        "16": {
+          "exact_at_h": 90,
+          "full_path_exact_to_h": 85,
+          "edge_exact_at_h": 108,
+          "node_exact_at_h": 94
+        }
+      },
+      "test_L3": {
+        "1": {
+          "exact_at_h": 207,
+          "full_path_exact_to_h": 207,
+          "edge_exact_at_h": 229,
+          "node_exact_at_h": 214
+        },
+        "4": {
+          "exact_at_h": 183,
+          "full_path_exact_to_h": 179,
+          "edge_exact_at_h": 216,
+          "node_exact_at_h": 193
+        },
+        "8": {
+          "exact_at_h": 173,
+          "full_path_exact_to_h": 168,
+          "edge_exact_at_h": 208,
+          "node_exact_at_h": 186
+        },
+        "16": {
+          "exact_at_h": 158,
+          "full_path_exact_to_h": 154,
+          "edge_exact_at_h": 201,
+          "node_exact_at_h": 173
+        }
+      },
+      "test_L4": {
+        "1": {
+          "exact_at_h": 65,
+          "full_path_exact_to_h": 65,
+          "edge_exact_at_h": 69,
+          "node_exact_at_h": 74
+        },
+        "4": {
+          "exact_at_h": 58,
+          "full_path_exact_to_h": 55,
+          "edge_exact_at_h": 59,
+          "node_exact_at_h": 65
+        },
+        "8": {
+          "exact_at_h": 57,
+          "full_path_exact_to_h": 53,
+          "edge_exact_at_h": 61,
+          "node_exact_at_h": 64
+        },
+        "16": {
+          "exact_at_h": 53,
+          "full_path_exact_to_h": 49,
+          "edge_exact_at_h": 57,
+          "node_exact_at_h": 58
+        }
+      },
+      "ambiguous": {
+        "1": {
+          "exact_at_h": 53,
+          "full_path_exact_to_h": 53,
+          "edge_exact_at_h": 62,
+          "node_exact_at_h": 54
+        },
+        "4": {
+          "exact_at_h": 46,
+          "full_path_exact_to_h": 43,
+          "edge_exact_at_h": 56,
+          "node_exact_at_h": 48
+        },
+        "8": {
+          "exact_at_h": 44,
+          "full_path_exact_to_h": 42,
+          "edge_exact_at_h": 56,
+          "node_exact_at_h": 46
+        },
+        "16": {
+          "exact_at_h": 44,
+          "full_path_exact_to_h": 40,
+          "edge_exact_at_h": 56,
+          "node_exact_at_h": 47
+        }
+      }
+    }
+  },
+  "example_counts": {
+    "train": 1440,
+    "ID_state": 128,
+    "OOD_structure": 128,
+    "test_L2": 128,
+    "test_L3": 240,
+    "test_L4": 80,
+    "ambiguous": 64
+  },
+  "horizons": [
+    1,
+    4,
+    8,
+    16
+  ],
+  "seconds": 46.701772035999966
+}

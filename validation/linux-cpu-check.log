@@ -1,0 +1,3 @@
+Working directory: <temporary-tree>/research/E36
+Command: ['<python-env>/bin/python', 'verify_manifest.py']
+PASS 52 SHA-256 entries verified

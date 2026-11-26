@@ -1,0 +1,14 @@
+OPEN CHECKS 175104
+N2AUDIT 17 L3 [(1, 135), (4, 85), (8, 68), (16, 54)] L4 [(1, 40), (4, 34), (8, 31), (16, 26)]
+N2AUDIT 29 L3 [(1, 137), (4, 84), (8, 71), (16, 58)] L4 [(1, 41), (4, 37), (8, 31), (16, 25)]
+N2AUDIT 43 L3 [(1, 142), (4, 95), (8, 73), (16, 66)] L4 [(1, 41), (4, 33), (8, 28), (16, 23)]
+RETRAIN17
+TRAIN 17 edge {'step': 1, 'bce': 0.320783, 'elapsed_s': 0.0, 'lambda': 0.55384}
+TRAIN 17 edge {'step': 250, 'bce': 0.132799, 'elapsed_s': 0.9, 'lambda': 0.46151}
+TRAIN 17 edge {'step': 500, 'bce': 0.106218, 'elapsed_s': 1.7, 'lambda': 0.40539}
+TRAIN 17 edge {'step': 750, 'bce': 0.090667, 'elapsed_s': 2.6, 'lambda': 0.36606}
+TRAIN 17 node {'step': 1, 'bce': 0.423459, 'elapsed_s': 0.0, 'lambda': 0.55384}
+TRAIN 17 node {'step': 250, 'bce': 0.173226, 'elapsed_s': 1.1, 'lambda': 0.47047}
+TRAIN 17 node {'step': 500, 'bce': 0.151259, 'elapsed_s': 2.0, 'lambda': 0.40004}
+TRAIN 17 node {'step': 750, 'bce': 0.09691, 'elapsed_s': 2.9, 'lambda': 0.34199}
+PASS {'status': 'PASS', 'checkpoint_seed_count': 3, 'independent_checks_approx': 912384, 'n2_episodes': 2368, 'all_N2_traces_per_seed': 768, 'direct_truth_reconstruction': True, 'N2_recomputed_from_raw': True, 'repeat_train_seed17_bitwise_identical': True, 'max_weights_diff_retrain_seed17': 0.0}

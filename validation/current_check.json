@@ -1,0 +1,9 @@
+{
+  "name": "e36",
+  "exit_code": 0,
+  "seconds": 1.62,
+  "command": [
+    "python",
+    "verify_manifest.py"
+  ]
+}

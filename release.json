@@ -1,0 +1,26 @@
+{
+  "release": "0.1.0-research",
+  "id": "induct-e36",
+  "original_archive": "TWM_E36_COMPLETE_REPRODUCIBLE.zip",
+  "original_archive_sha256": "c9531f3b23b17a3230b7cf85fd18e8355b7105cd0f610458a58ed954f4a7dddb",
+  "native_directory": "research/E36",
+  "commands": {
+    "check": [
+      "verify_manifest.py"
+    ],
+    "demo": [
+      "e36_n2_rollout.py"
+    ]
+  },
+  "current_check": {
+    "name": "e36",
+    "exit_code": 0,
+    "seconds": 1.62,
+    "command": [
+      "python",
+      "verify_manifest.py"
+    ]
+  },
+  "historical_status": "Positive known-law result; no promotion",
+  "source_licenses": []
+}

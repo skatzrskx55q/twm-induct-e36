@@ -1,0 +1,27 @@
+TRAIN 17 edge {'step': 1, 'bce': 0.320783, 'elapsed_s': 0.1, 'lambda': 0.55384}
+TRAIN 17 edge {'step': 250, 'bce': 0.132799, 'elapsed_s': 0.9, 'lambda': 0.46151}
+TRAIN 17 edge {'step': 500, 'bce': 0.106218, 'elapsed_s': 1.8, 'lambda': 0.40539}
+TRAIN 17 edge {'step': 750, 'bce': 0.090667, 'elapsed_s': 2.6, 'lambda': 0.36606}
+TRAIN 17 node {'step': 1, 'bce': 0.423459, 'elapsed_s': 0.0, 'lambda': 0.55384}
+TRAIN 17 node {'step': 250, 'bce': 0.173226, 'elapsed_s': 1.0, 'lambda': 0.47047}
+TRAIN 17 node {'step': 500, 'bce': 0.151259, 'elapsed_s': 1.9, 'lambda': 0.40004}
+TRAIN 17 node {'step': 750, 'bce': 0.09691, 'elapsed_s': 2.8, 'lambda': 0.34199}
+EVAL 17 train 1993 / 2048 edge 2042 node 1998 pairs None
+EVAL 17 known_val 1202 / 1280 edge 1275 node 1206 pairs None
+EVAL 17 paired_known 147 / 160 edge 160 node 147 pairs 67
+EVAL 17 N39_open 96 / 160 edge 160 node 96 pairs 21
+TRAIN 29 edge {'step': 1, 'bce': 0.329319, 'elapsed_s': 0.0, 'lambda': 0.55384}
+TRAIN 29 edge {'step': 250, 'bce': 0.144548, 'elapsed_s': 0.9, 'lambda': 0.46135}
+TRAIN 29 edge {'step': 500, 'bce': 0.110332, 'elapsed_s': 1.8, 'lambda': 0.40784}
+TRAIN 29 edge {'step': 750, 'bce': 0.090617, 'elapsed_s': 2.7, 'lambda': 0.36689}
+TRAIN 29 node {'step': 1, 'bce': 0.412218, 'elapsed_s': 0.0, 'lambda': 0.55384}
+TRAIN 29 node {'step': 250, 'bce': 0.193197, 'elapsed_s': 0.9, 'lambda': 0.47214}
+TRAIN 29 node {'step': 500, 'bce': 0.129336, 'elapsed_s': 1.8, 'lambda': 0.40795}
+TRAIN 29 node {'step': 750, 'bce': 0.089864, 'elapsed_s': 3.0, 'lambda': 0.34826}
+EVAL 29 train 1997 / 2048 edge 2043 node 2001 pairs None
+EVAL 29 known_val 1187 / 1280 edge 1272 node 1195 pairs None
+EVAL 29 paired_known 134 / 160 edge 159 node 135 pairs 55
+EVAL 29 N39_open 86 / 160 edge 160 node 86 pairs 17
+TRAIN 43 edge {'step': 1, 'bce': 0.405118, 'elapsed_s': 0.0, 'lambda': 0.55384}
+TRAIN 43 edge {'step': 250, 'bce': 0.133344, 'elapsed_s': 0.9, 'lambda': 0.4576}
+TRAIN 43 edge {'step': 500, 'bce': 0.108874, 'elapsed_s': 1.8, 'lambda': 0.4027}

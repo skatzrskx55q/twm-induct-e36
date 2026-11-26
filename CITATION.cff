@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this TWM Research Series software release and the benchmark artifact you used."
+title: "INDUCT E36 — Meta-Ridge World Dynamics"
+type: software
+authors:
+  - name: "skatzrskx55q"
+version: "0.1.0-research"
+repository-code: "https://github.com/skatzrskx55q/twm-induct-e36"
+url: "https://github.com/skatzrskx55q/twm-induct-e36/releases/tag/v0.1.0-research"
+license: MIT
